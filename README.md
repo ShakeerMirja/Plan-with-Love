@@ -21,6 +21,7 @@ The main goal is to gain hands-on experience and build a strong foundation in Re
 - **React.js**
 - **JavaScript (ES6+)**
 - **HTML5 & CSS3**
+- **TailwindCSS**
 
 ---
 
